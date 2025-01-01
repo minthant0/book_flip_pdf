@@ -103,7 +103,7 @@ packages:
     source: hosted
     version: "3.4.1"
   flutter_cached_pdfview:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_cached_pdfview
       sha256: b1a3dc1cca0ac6b35bc95aeb8253208e211468eadd68829bae8f2696f3601b5a
@@ -132,7 +132,7 @@ packages:
     source: sdk
     version: "0.0.0"
   get:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: get
       sha256: e4e7335ede17452b391ed3b2ede016545706c01a02292a6c97619705e7d2a85e
@@ -212,7 +212,7 @@ packages:
     source: hosted
     version: "1.15.0"
   page_flip:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: page_flip
       sha256: fcd32ad12b9733175d6234870c961a1cc76080233a0230ba54cc152e82f3fcae
